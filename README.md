@@ -13,8 +13,6 @@ This project is a simple **Pizza Ordering System** implemented in TypeScript. It
 - **Cash Register Tracking**: Automatically update the cash register when an order is placed.
 - **Error Handling**: Ensures invalid pizzas or orders are handled gracefully.
 
-```
-
 ## Known Issues
 - Duplicate pizza names are allowed in the menu; consider adding unique name validation.
 
@@ -26,4 +24,3 @@ This project is a simple **Pizza Ordering System** implemented in TypeScript. It
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it.
 
----

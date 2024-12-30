@@ -1,6 +1,3 @@
-Here's a simple and well-structured `README.md` file for the TypeScript code:
-
----
 
 # Pizza Ordering System
 
